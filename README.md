@@ -1,2 +1,2 @@
 # google-homepage
-the Odin project a clone-homepage
+the Odin project a clone google-homepage
